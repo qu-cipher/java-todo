@@ -1,4 +1,4 @@
-# java-todo
+# Java TODO app by Apache Tomcat
 this is a simple todo app made by java tomcat.
 
 # Usage
